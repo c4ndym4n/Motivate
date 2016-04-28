@@ -1,2 +1,6 @@
 
 *.xml
+
+.idea/Motivate.iml
+
+.idea/misc.xml
